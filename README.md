@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-![](top.jpg =640x320)
+<img src="top.jpg" width="320" height="640">
 
-![](bottom.jpg =640x320)
+<img src="bottom.jpg" width="320" height="640">
 
 ## Getting Started
 
